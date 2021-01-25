@@ -3,5 +3,5 @@ const myFullName = () => {
     let middle = "Cristina"
     let last = "Hernandez"
 
-    console.log(" Ana Cristina Hernandez")
+    console.log(first + middle + last)
 }
